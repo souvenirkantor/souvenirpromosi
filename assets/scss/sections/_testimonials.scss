@@ -1,0 +1,182 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Testimonials Section
+--------------------------------------------------------------*/
+.testimonials {
+  padding: 100px 0;
+
+  .swiper-wrapper {
+    height: auto !important;
+  }
+
+  .review-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding: 40px;
+    background: var(--surface-color);
+    border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    border-radius: 4px;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+      box-shadow: 0 30px 70px color-mix(in srgb, var(--default-color), transparent 90%);
+    }
+  }
+
+  .review-body {
+    margin-bottom: 40px;
+  }
+
+  .stars-row {
+    display: flex;
+    gap: 3px;
+    margin-bottom: 25px;
+
+    i {
+      color: #fbbf24;
+      font-size: 15px;
+    }
+  }
+
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    p {
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 1.55;
+      color: var(--heading-color);
+      letter-spacing: -0.3px;
+      margin: 0;
+    }
+  }
+
+  .review-author {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-top: 30px;
+    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  }
+
+  .author-photo {
+    flex-shrink: 0;
+
+    img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  }
+
+  .author-details {
+    flex: 1;
+
+    h4 {
+      margin: 0 0 3px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.3px;
+    }
+
+    span {
+      display: block;
+      font-size: 14px;
+      font-weight: 400;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+    }
+  }
+
+  .verified-mark {
+    flex-shrink: 0;
+
+    i {
+      font-size: 20px;
+      color: var(--accent-color);
+    }
+  }
+
+  .slider-controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+    position: relative;
+
+    .swiper-button-prev,
+    .swiper-button-next {
+      position: static;
+      width: 50px;
+      height: 50px;
+      border-radius: 50px;
+      border: 1px solid color-mix(in srgb, var(--default-color), transparent 80%);
+      background: transparent;
+      margin: 0;
+      transition: all 0.3s ease-out;
+
+      &::after {
+        font-size: 16px;
+        color: var(--default-color);
+        font-weight: 700;
+      }
+
+      &:hover {
+        background: var(--default-color);
+        border-color: var(--default-color);
+
+        &::after {
+          color: var(--contrast-color);
+        }
+      }
+    }
+  }
+
+  @media (max-width: 992px) {
+    padding: 80px 0;
+
+    .review-block {
+      padding: 30px;
+    }
+
+    blockquote p {
+      font-size: 20px;
+    }
+
+    .slider-controls {
+      margin-top: 40px;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .review-block {
+      padding: 25px;
+    }
+
+    blockquote p {
+      font-size: 18px;
+    }
+
+    .review-body {
+      margin-bottom: 30px;
+    }
+
+    .slider-controls {
+
+      .swiper-button-prev,
+      .swiper-button-next {
+        width: 44px;
+        height: 44px;
+
+        &::after {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}

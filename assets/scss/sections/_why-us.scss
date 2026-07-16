@@ -1,0 +1,280 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Why Us Section
+--------------------------------------------------------------*/
+.why-us {
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  .intro-content {
+    max-width: 560px;
+
+    h3 {
+      font-size: 42px;
+      font-weight: 600;
+      line-height: 1.15;
+      letter-spacing: -0.5px;
+      color: var(--heading-color);
+      margin-bottom: 20px;
+    }
+
+    .lead {
+      font-size: 16px;
+      line-height: 1.75;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+      margin-bottom: 0;
+    }
+  }
+
+  .action-links {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+
+    .btn-accent {
+      display: inline-flex;
+      align-items: center;
+      padding: 17px 25px;
+      border-radius: 50px;
+      font-size: 16px;
+      font-weight: 600;
+      background: var(--accent-color);
+      color: var(--contrast-color);
+      border: none;
+      transition: all 0.3s ease-out;
+
+      &:hover {
+        transform: translateY(-4px);
+        background: color-mix(in srgb, var(--accent-color), var(--default-color) 15%);
+        color: var(--contrast-color);
+      }
+    }
+
+    .link-arrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 16px;
+      font-weight: 500;
+      color: var(--default-color);
+      position: relative;
+      transition: all 0.3s ease-out;
+      background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+
+      &:hover {
+        background-size: 100% 1px;
+        color: var(--default-color);
+
+        i {
+          transform: translateX(4px);
+        }
+      }
+
+      i {
+        transition: transform 0.3s ease-out;
+      }
+    }
+  }
+
+  .metrics-row {
+    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    margin-bottom: 80px;
+
+    .metric-block {
+      padding: 40px 30px;
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      height: 100%;
+      border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+      transition: background 0.3s ease-out;
+
+      &:hover {
+        background: color-mix(in srgb, var(--default-color), transparent 97%);
+      }
+    }
+
+    .col-lg-4:last-child .metric-block {
+      border-right: none;
+    }
+
+    .metric-icon {
+      flex-shrink: 0;
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      i {
+        font-size: 32px;
+        color: var(--accent-color);
+      }
+    }
+
+    .metric-info {
+      .metric-value {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 8px;
+
+        .purecounter {
+          font-size: 40px;
+          font-weight: 700;
+          line-height: 1;
+          color: var(--heading-color);
+          letter-spacing: -1px;
+        }
+
+        .metric-suffix {
+          font-size: 24px;
+          font-weight: 600;
+          color: var(--accent-color);
+          margin-left: 2px;
+        }
+      }
+
+      h4 {
+        font-size: 18px;
+        font-weight: 600;
+        color: var(--heading-color);
+        margin-bottom: 8px;
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 1.6;
+        color: color-mix(in srgb, var(--default-color), transparent 40%);
+        margin-bottom: 0;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .metric-block {
+        border-right: none;
+        border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+        padding: 30px 20px;
+      }
+
+      .col-lg-4:last-child .metric-block,
+      .col-md-4:last-child .metric-block {
+        border-bottom: none;
+      }
+    }
+  }
+
+  .showcase-section {
+    .showcase-image {
+      position: relative;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: auto;
+        transition: transform 0.5s ease-out;
+      }
+
+      &:hover img {
+        transform: scale(1.05);
+      }
+    }
+
+    .advantages-content {
+      h3 {
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 1.15;
+        letter-spacing: -0.5px;
+        color: var(--heading-color);
+        margin-bottom: 40px;
+        max-width: 500px;
+      }
+
+      .advantage-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+
+        &:last-child {
+          border-bottom: none;
+          margin-bottom: 0;
+          padding-bottom: 0;
+        }
+
+        .advantage-index {
+          flex-shrink: 0;
+          font-size: 14px;
+          font-weight: 600;
+          color: var(--accent-color);
+          padding-top: 4px;
+        }
+
+        .advantage-text {
+          h5 {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--heading-color);
+            margin-bottom: 8px;
+            line-height: 1.2;
+          }
+
+          p {
+            font-size: 16px;
+            line-height: 1.75;
+            color: color-mix(in srgb, var(--default-color), transparent 40%);
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+
+    @media (max-width: 992px) {
+      .advantages-content {
+        padding-top: 40px;
+
+        h3 {
+          font-size: 28px;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    .intro-content {
+      h3 {
+        font-size: 32px;
+      }
+    }
+
+    .action-links {
+      margin-top: 25px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 15px;
+    }
+
+    .metrics-row {
+      margin-bottom: 50px;
+
+      .metric-info {
+        .metric-value {
+          .purecounter {
+            font-size: 32px;
+          }
+
+          .metric-suffix {
+            font-size: 20px;
+          }
+        }
+      }
+    }
+  }
+}

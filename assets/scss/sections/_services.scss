@@ -1,0 +1,170 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Services Section
+--------------------------------------------------------------*/
+.services {
+  padding: 100px 0;
+
+  .service-item {
+    display: flex;
+    gap: 20px;
+    padding: 35px 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    height: 100%;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+      .service-index {
+        color: var(--accent-color);
+      }
+
+      .service-more i {
+        transform: translateX(4px);
+      }
+    }
+  }
+
+  .service-index {
+    font-size: 14px;
+    font-weight: 600;
+    color: color-mix(in srgb, var(--default-color), transparent 60%);
+    line-height: 1.8;
+    flex-shrink: 0;
+    transition: color 0.3s ease-out;
+  }
+
+  .service-content {
+    h4 {
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.5px;
+      margin-bottom: 12px;
+
+      a {
+        color: var(--heading-color);
+        text-decoration: none;
+        transition: color 0.3s ease-out;
+
+        &:hover {
+          color: var(--accent-color);
+        }
+      }
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.75;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+      margin-bottom: 20px;
+      max-width: 500px;
+    }
+  }
+
+  .service-tag {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--accent-color);
+    border: 1px solid color-mix(in srgb, var(--accent-color), transparent 60%);
+    padding: 4px 12px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+  }
+
+  .service-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--default-color);
+    text-decoration: none;
+    position: relative;
+    background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+    transition: background-size 0.3s ease-out, color 0.3s ease-out;
+
+    i {
+      font-size: 14px;
+      transition: transform 0.3s ease-out;
+    }
+
+    &:hover {
+      background-size: 100% 1px;
+      color: var(--accent-color);
+    }
+  }
+
+  .bottom-cta {
+    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+    padding-top: 50px;
+
+    h3 {
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 1.15;
+      letter-spacing: -0.5px;
+      color: var(--heading-color);
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.75;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+      max-width: 500px;
+      margin-bottom: 0;
+    }
+  }
+
+  .cta-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 17px 25px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--accent-color);
+    color: var(--contrast-color);
+    border: none;
+    text-decoration: none;
+    transition: all 0.3s ease-out;
+    white-space: nowrap;
+
+    &:hover {
+      transform: translateY(-4px);
+      background: color-mix(in srgb, var(--accent-color), var(--default-color) 15%);
+      color: var(--contrast-color);
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding: 80px 0;
+
+    .service-item {
+      padding: 25px 0;
+    }
+
+    .service-content {
+      h4 {
+        font-size: 20px;
+      }
+
+      p {
+        font-size: 15px;
+      }
+    }
+
+    .bottom-cta {
+      padding-top: 40px;
+
+      h3 {
+        font-size: 26px;
+      }
+    }
+
+    .cta-btn {
+      margin-top: 30px;
+    }
+  }
+}

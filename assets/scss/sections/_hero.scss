@@ -1,0 +1,189 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+.hero {
+  padding-top: 140px;
+  position: relative;
+  overflow: hidden;
+  background: var(--background-color);
+  padding-bottom: 100px;
+
+  .content {
+    max-width: 560px;
+
+    .subtitle {
+      font-size: 14px;
+      font-weight: 500;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      font-size: 52px;
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -1px;
+      margin-bottom: 25px;
+
+      @media (max-width: 768px) {
+        font-size: 36px;
+      }
+    }
+
+    .description {
+      font-size: 16px;
+      line-height: 1.75;
+      color: color-mix(in srgb, var(--default-color), transparent 40%);
+      margin-bottom: 40px;
+      max-width: 480px;
+    }
+  }
+
+  .action-group {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+
+    .btn-accent {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 17px 25px;
+      border-radius: 50px;
+      font-size: 16px;
+      font-weight: 600;
+      background: var(--accent-color);
+      color: var(--contrast-color);
+      border: none;
+      text-decoration: none;
+      transition: all 0.3s ease-out;
+
+      &:hover {
+        transform: translateY(-4px);
+        background: color-mix(in srgb, var(--accent-color), var(--default-color) 15%);
+        color: var(--contrast-color);
+      }
+    }
+
+    .btn-text {
+      font-size: 16px;
+      font-weight: 500;
+      color: var(--default-color);
+      text-decoration: none;
+      transition: all 0.3s ease-out;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+
+      i {
+        transition: transform 0.3s ease-out;
+      }
+
+      &:hover {
+        color: var(--accent-color);
+
+        i {
+          transform: translateX(4px);
+        }
+      }
+    }
+  }
+
+  .visual-block {
+    position: relative;
+
+    img {
+      //width: 100%;
+      // aspect-ratio: 4 / 3;
+      // object-fit: cover;
+      // border-radius: 0;
+      transition: transform 0.5s ease-out;
+    }
+
+    &:hover img {
+      transform: scale(1.06);
+    }
+
+    @media (max-width: 992px) {
+      margin-top: 50px;
+    }
+  }
+
+  .stats-row {
+    margin-top: 80px;
+    padding-top: 50px;
+    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+
+    .stat-block {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 2px;
+      padding: 10px 0;
+
+      .stat-value {
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 1;
+        color: var(--accent-color);
+      }
+
+      .stat-suffix {
+        font-size: 32px;
+        font-weight: 600;
+        color: var(--accent-color);
+      }
+
+      .stat-desc {
+        display: block;
+        width: 100%;
+        font-size: 14px;
+        font-weight: 500;
+        color: color-mix(in srgb, var(--default-color), transparent 40%);
+        margin-top: 8px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      margin-top: 50px;
+      padding-top: 30px;
+
+      .stat-block {
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 20px;
+
+        .stat-value {
+          font-size: 36px;
+        }
+
+        .stat-suffix {
+          font-size: 24px;
+        }
+
+        .stat-desc {
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 992px) {
+    padding: 100px 0 80px;
+
+    .content {
+      max-width: 100%;
+      text-align: center;
+
+      .description {
+        max-width: 100%;
+      }
+    }
+
+    .action-group {
+      justify-content: center;
+    }
+  }
+}
