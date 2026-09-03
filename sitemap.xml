@@ -1,506 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://souvenirpromosi.web.id/harga-grosir-gantungan-kunci.html</loc>
+    <loc>https://souvenirpromosi.web.id/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://souvenirpromosi.web.id/index.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://souvenirpromosi.web.id/about.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/teknik-cetak-logo-gantungan-kunci.html</loc>
-    <lastmod>2026-09-02</lastmod>
+    <loc>https://souvenirpromosi.web.id/services.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-bahan-gantungan-kunci.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/ide-souvenir-gantungan-kunci.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/harga-paket-grosir-pulpen-besi.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/varian-pulpen-besi-korporat.html</loc>
-    <lastmod>2026-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-material-pulpen-besi.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/model-pulpen-besi-promosi.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-agenda-kulit-korporat.html</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/souvenir-agenda-kulit-branding.html</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/kesalahan-pengadaan-souvenir-kantor.html</loc>
-    <lastmod>2026-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/paket-souvenir-smart-classroom.html</loc>
-    <lastmod>2026-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/panduan-paket-souvenir-promosi-murah-event-kantor.html</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/harga-cetak-payung-promosi-per-pcs-jakarta.html</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/daftar-harga-cetak-payung-promosi-grosir-Jakarta.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/sop-pengadaan-merchandise-kantor-b2b.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-powerbank-custom-logo-perusahaan.html</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/10-powerbank-custom-souvenir-promosi-perusahaan-pilihan-2026.html</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/paket-grosir-mug-keramik.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-cetak-mug-keramik.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/mug-keramik-custom-event.html</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/10-mug-keramik-custom.html</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/harga-grosir-totebag-kanvas.html</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/perbandingan-totebag-kanvas-dan-spunbond-untuk-souvenir-korporat.html</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/ide-desain-totebag-kanvas-custom-untuk-berbagai-acara-perusahaan.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/7-pilihan-totebag-kanvas-custom-souvenir-promosi-terbaik-untuk-perusahaan.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/inspirasi-desain-custom-set-atk-untuk-branding-perusahaan.html</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/tren-souvenir-kantor-set-atk-ramah-lingkungan-untuk-promosi-b2b.html</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog-2.html</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog-3.html</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog-4.html</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/katalog-set-atk-eksklusif-untuk-souvenir-klien-vip-perusahaan.html</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/7-set-atk-premium-untuk-souvenir-promosi-perusahaan.html</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/tumbler-custom-ramah-lingkungan-katalog-dan-spesifikasi-untuk-souvenir-korporat.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/7-souvenir-promosi-ramah-lingkungan-favorit-untuk-branding-perusahaan-di-2026.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/material-payung-lipat-anti-angin-premium-untuk-souvenir-kantor.html</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/5-ide-souvenir-promosi-payung-lipat-anti-angin-untuk-kantor.html</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/souvenir-payung-lipat-anti-angin-untuk-acara-kantor.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/cetak-logo-payung-lipat-promosi-perusahaan.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/katalog-model-flashdisk-kartu-custom-logo-terbaru.html</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-flashdisk-kartu-custom-logo-full-color.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/7-souvenir-promosi-flashdisk-kartu-cetak-full-color.html</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/paket-grosir-tumbler-custom-souvenir-promosi-corporate-event.html</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/pilihan-desain-dan-warna-tumbler-custom.html</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/spesifikasi-tumbler-custom-stainless-steel.html</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/10-tumbler-custom-tahan-panas.html</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/manfaat-plakat-kristal-eksklusif.html</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/plakat-kristal-eksklusif.html</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/dampak-hadiah-vip-perusahaan-terhadap-loyalitas.html</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://souvenirpromosi.web.id/service-detail.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/ide-client-appreciation-gifts.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <loc>https://souvenirpromosi.web.id/detail-desain-eksklusif.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/kriteria-hadiah-vip-perusahaan.html</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/momen-tepat-hadiah-vip-perusahaan.html</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/souvenir-eksklusif.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/souvenir-relasi-bisnis.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/souvenir-custom-logo.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/about.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog-2.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/blog-3.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/detail-paket-souvenir.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/id-card.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/index.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/merchandise.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/paket-seminar.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://souvenirpromosi.web.id/paket-welvome-kit.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/portfolio.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/powerbank.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/premium-corporate-gift.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/privacy.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/product.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://souvenirpromosi.web.id/seminar-kit.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/service-details.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <loc>https://souvenirpromosi.web.id/merchandise.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/services.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <loc>https://souvenirpromosi.web.id/portfolio.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/starter-page.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://souvenirpromosi.web.id/product.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/team.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://souvenirpromosi.web.id/blog.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/terms.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/tumbler-corkcicle.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/tumbler-smart.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://souvenirpromosi.web.id/pesan-corporate-gift-premium.html</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://souvenirpromosi.web.id/katalog-lanyard-custom-printing.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/5-jenis-corporate-gift-premium.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <loc>https://souvenirpromosi.web.id/lanyard-custom-printing.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/momen-terbaik-beri-corporate-gift.html</loc>
-    <lastmod>2026-07-20</lastmod>
+    <loc>https://souvenirpromosi.web.id/harga-grosir-gantungan-kunci.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/dampak-corporate-gift-premium.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <loc>https://souvenirpromosi.web.id/teknik-cetak-logo-gantungan-kunci.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://souvenirpromosi.web.id/hadiah-vip-perusahaan-premium.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <loc>https://souvenirpromosi.web.id/spesifikasi-bahan-gantungan-kunci.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://souvenirpromosi.web.id/ide-souvenir-gantungan-kunci.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://souvenirpromosi.web.id/harga-paket-grosir-pulpen-besi.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
