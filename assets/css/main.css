@@ -5642,3 +5642,96 @@ section,
     color: #aaa !important;
     border-color: #eee !important;
 }
+
+/* ==========================================================================
+   Article Custom Styles
+   Extracted from inline styles used on article detail pages
+   (Poin Penting, Daftar Isi, Baca Juga, FAQ Accordion, Sidebar Artikel Terkait)
+   ========================================================================== */
+
+/* Poin Penting (Key Takeaways) box */
+.key-takeaways {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 20px;
+  border-left: 4px solid rgba(255, 255, 255, 0.3);
+  margin-bottom: 30px;
+  border-radius: 8px;
+}
+
+.key-takeaways h4 {
+  margin-top: 0;
+}
+
+/* Daftar Isi (Table of Contents) box */
+.table-of-contents-inline {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.table-of-contents-inline ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Baca Juga (Read Also) block */
+.read-also-block {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-left: 4px solid rgba(255, 255, 255, 0.3);
+  padding: 15px;
+  margin: 25px 0;
+  border-radius: 8px;
+}
+
+/* FAQ Accordion overrides (scoped to #faqAccordion so Bootstrap's
+   default .accordion-item/.accordion-button/.accordion-body classes
+   elsewhere on the site are not affected) */
+#faqAccordion .accordion-item {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#faqAccordion .accordion-button {
+  background-color: rgba(0, 0, 0, 0.03);
+  color: #212529;
+  box-shadow: none;
+  font-weight: 600;
+}
+
+#faqAccordion .accordion-body {
+  color: #4f4f4f;
+  background-color: #ffffff;
+}
+
+/* Sidebar: Artikel Terkait cards */
+.related-img-box-sidebar {
+  width: 80px;
+  flex-shrink: 0;
+}
+
+.related-info-sidebar h6 {
+  font-size: 0.9rem;
+  margin-bottom: 5px;
+}
+
+.related-info-sidebar h6 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.related-tag {
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Utility */
+.no-margin-bottom {
+  margin-bottom: 0;
+}
